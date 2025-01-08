@@ -1,0 +1,2 @@
+- The Null Object Design Pattern is a behavioral design pattern that is used to provide a consistent way of handling null or non-existing objects. It is particularly useful in situations where you want to avoid explicit null checks and provide a default behavior for objects that may not exist.
+---
