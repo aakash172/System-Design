@@ -1,0 +1,2 @@
+- The Interpreter design pattern provides a way to interpret and evaluate sentences or expressions in a language. This pattern defines a language grammar, along with an interpreter that can parse and execute the expressions.
+---
